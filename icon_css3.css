@@ -479,7 +479,7 @@ h1{
 	border-top:12px solid #333;
 	-webkit-transform: rotate(45deg);
 	position: absolute;
-	top:22.5px;
+	top:22.6px;
 	left:-7.3px;
 }
 .icon-star,.icon-star:before,.icon-star:after{
@@ -1204,7 +1204,7 @@ h1{
 	border-right:9px solid transparent;
 	border-bottom:10px solid #333;
 	position: absolute;
-	top:-9.9px;
+	top:-10px;
 	left:0px;
 }
 .icon-tag:after{
