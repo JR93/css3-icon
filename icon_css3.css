@@ -21,7 +21,6 @@ h1{
 	font-size: 16px;
 	font-weight: bold;
 	text-align: center;
-
 }
 
 .btn-box{
@@ -29,7 +28,7 @@ h1{
 	width: 40px;
 	height: 40px;
 	text-decoration: none;
-	position: relative;border:1px solid #ddd;
+	position: relative;
 }
 .icon-chevron-left{
 	display: inline-block;
